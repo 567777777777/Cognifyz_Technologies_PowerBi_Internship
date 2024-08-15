@@ -1,1 +1,1 @@
-
+Investment Insights Dashboard
